@@ -3,7 +3,7 @@ function setup(){
     background(220)}
 function draw(){
     fill(0)
-    stroke(10)
+    stroke(255,0,0)
     circle(150,200,100)
 
 }
