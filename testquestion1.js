@@ -1,2 +1,1 @@
 createCanvas(600,400)
-function
